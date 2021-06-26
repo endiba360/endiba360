@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![](https://media.giphy.com/media/iIYWG1FvZCv5FJS6iY/giphy.gif)
+(gif by [john karel](https://twitter.com/jjjjjjjjjjohn))
 <!--
 **endiba360/endiba360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
